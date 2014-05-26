@@ -7,7 +7,7 @@
 						http://www.springframework.org/schema/context 
 						http://www.springframework.org/schema/context/spring-context.xsd">
 
-	<context:component-scan base-package="com.manuel.jordan" />
+	<context:component-scan base-package="com.manuel.jordan.model" />
 	
 	<import resource="classpath:/com/manuel/jordan/springframework/beans/xml/infrastructure/*.xml" />
 	
