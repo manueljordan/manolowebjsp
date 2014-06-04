@@ -7,7 +7,7 @@
 	<version>1.0.0</version>
 	<packaging>war</packaging>
 	<name>ManoloWebJSP</name>
-	<url>http://manueljordan.wordpress.com/</url>
+	<url>http://manueljordanelera.blogspot.com/</url>
 	<description>
 		<![CDATA[
       Simple Sample App working with Spring Framework through Spring MVC for web interaction purposes. 
